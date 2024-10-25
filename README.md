@@ -8,7 +8,9 @@ With a Research Master's in Big Data and Decision Support and extensive academic
 💡 My Skills
 
 AI | Machine Learning | Deep Learning 
+
 Data Analysis & Visualization
+
 Big Data using tools like Hadoop and Spark
 
 🌟 What Drives Me
