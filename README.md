@@ -1,4 +1,5 @@
 👋 Hi there! I’m Omar
+
 💻 Data Scientist & AI Enthusiast specializing in Machine Learning and Deep Learning.
 
 👨‍🎓 About Me
