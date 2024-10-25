@@ -7,9 +7,9 @@ With a Research Master's in Big Data and Decision Support and extensive academic
 
 💡 My Skills
 
-* AI,Machine Learning and Deep Learning 
-* Data Analysis & Visualization
-* Big Data using tools like Hadoop and Spark
+* AI,Machine Learning and Deep Learning.
+* Data Analysis & Visualization.
+* Big Data using tools like Hadoop and Spark.
 
 🌟 What Drives Me
 I aim to contribute to innovative projects in AI and Machine Learning, helping businesses leverage data-driven insights for better decision-making. I’m always eager to learn new techniques and collaborate with passionate teams.
