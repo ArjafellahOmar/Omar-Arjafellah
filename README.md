@@ -6,7 +6,6 @@
 With a Research Master's in Big Data and Decision Support and extensive academic project experience, I’m passionate about harnessing data to make impactful decisions and solve real-world problems.
 
 💡 My Skills
-
 * AI,Machine Learning and Deep Learning.
 * Data Analysis & Visualization.
 * Big Data using tools like Hadoop and Spark.
